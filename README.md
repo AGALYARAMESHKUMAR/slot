@@ -128,5 +128,8 @@ Execute the program
 # OUPUT
 ![OUTPUT](./out.png)
 
+# HTML VALIDATOR
+![HTML VALIDATOR](./timetable.png)
+
 # RESULT
 Program is executed successfully
