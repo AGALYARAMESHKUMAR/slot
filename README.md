@@ -126,7 +126,7 @@ Execute the program
 </html>
 ```
 # OUPUT
-![OUTPUT](./out.png)
+![OUTPUT](./ex03.png)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](./timetable.png)
